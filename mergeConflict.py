@@ -2,7 +2,7 @@ import random
 what = input("Is this a Hello World program to understand Git: ")
 randomize = ["yes","no","hello","word",]
 
-if what.lower() == "random":
+if what.lower() == "i3ew9f4rtkw3e9op0iktcfr4ei9ovtgkfr 9oikep0cfr4i903efwr434r9i0":
     what = random.choice(randomize)
     print(what)
 
