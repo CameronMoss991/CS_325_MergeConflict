@@ -12,7 +12,7 @@ elif what.lower() == "no":
     print("Correct, this program is a merge conflict example")
 elif what.lower() == "hello" or what.lower() == "hello world" or what.lower() == "hello world!!!":
     print("Hello World!!!")
-elif what.lower() == "word2" or what.lower() == "This has been change and will hopefully cause a resolvable conflict": #Merge Conflict word
+elif what.lower() == "word1" or what.lower() == "word2" or what.lower() == "word3": #Merge Conflict word
     print("Funny")
 else:
     pass
